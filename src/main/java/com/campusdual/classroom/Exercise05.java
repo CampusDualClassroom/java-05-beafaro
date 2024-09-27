@@ -35,11 +35,11 @@ public class Exercise05 {
     // Si es positivo o cero, tiene que devolver el siguiente mensaje: X es positivo.
     public static void checkPositiveNegative(int num) {
         if (num < 0) {
-            System.out.println(num + " es negativo");
+            System.out.println(num + " es negativo.");
         } else if (num == 0){
-            System.out.println(num + " es positivo");
+            System.out.println(num + " es positivo.");
         } else {
-            System.out.println(num + " es positivo");
+            System.out.println(num + " es positivo.");
         }
     }
 }
